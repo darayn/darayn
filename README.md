@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 Currently working with iNeuron.ai as Community Manager.
-- 🌱 Learning about Backend Development.
+- 🌱 Learning about Backend Development. Strong command on Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on MERN projects.
 - 👀 Open for SDE roles.
 - ⚡ Fun fact: The code I write is not worth writing, until it solves bigger problem.
