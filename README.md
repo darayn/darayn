@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
-- 🔭 I’m currently working with iNeuron.ai as Community Manager.
-- 🌱 I’m currently learning about Backend Development.
+- 🔭 Currently working with iNeuron.ai as Community Manager.
+- 🌱 Learning about Backend Development.
 - 👯 I’m looking to collaborate on MERN projects.
-- 👀 I’m open for SDE roles.
+- 👀 Open for SDE roles.
 - ⚡ Fun fact: The code I write is not worth writing, until it solves bigger problem.
 
 ---
