@@ -4,10 +4,9 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
-- 🔭 Currently working with iNeuron.ai as Community Manager.
+- 🔭 Developer at <a href="marchtee.com">March</a>. Community Manager at iNeuron.ai.
 - 🌱 Learning about Backend Development. Strong command on Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on MERN projects.
-- 👀 Open for SDE roles.
 - ⚡ Fun fact: The code I write is not worth writing, until it solves bigger problem.
 
 ---
