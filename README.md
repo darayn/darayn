@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
-- 🔭 Developer at <a href="marchtee.com">March</a>. Community Manager at iNeuron.ai.
-- 🌱 Learning about Backend Development. Strong command on Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on MERN projects.
-- ⚡ Fun fact: The code I write is not worth writing, until it solves bigger problem.
+- 🔭 Developer at <a href="marchtee.com">March</a>
+- 🌱 Learning about Backend Development. Strong command on Data Structures and Algorithms
+- 👯 I’m looking to collaborate on MERN projects
+- ⚡ Fun fact: The code I write is not worth writing, until it solves bigger problem
 
 ---
 
