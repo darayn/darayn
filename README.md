@@ -6,7 +6,7 @@
 
 - 🔭 Developer at [March](https://www.marchtee.com/)
 - 🌱 Learning about Backend Development. Strong command on Data Structures and Algorithms
-- 👯 I’m looking to collaborate on MERN projects
+- 👯 Looking out to work with some good user experience designers
 - ⚡ Fun fact: The code I write is not worth writing, until it solves bigger problem
 
 ---
